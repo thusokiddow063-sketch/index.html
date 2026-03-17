@@ -1,0 +1,23 @@
+mthusoprojects-starter/
+├─ backend/
+│   ├─ models/
+│   │   ├─ Booking.js
+│   │   ├─ Customer.js
+│   │   └─ Invoice.js
+│   ├─ routes/
+│   │   ├─ bookings.js
+│   │   ├─ customers.js
+│   │   ├─ invoices.js
+│   │   └─ auth.js
+│   ├─ .env.example
+│   ├─ server.js
+│   └─ package.json
+├─ frontend/
+│   ├─ css/
+│   │   └─ style.css
+│   ├─ js/
+│   │   ├─ main.js
+│   │   └─ dashboard.js
+│   ├─ index.html
+│   └─ dashboard.html
+└─ README.md
